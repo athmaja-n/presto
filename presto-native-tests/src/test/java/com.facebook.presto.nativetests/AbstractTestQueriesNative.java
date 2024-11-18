@@ -197,7 +197,7 @@ public abstract class AbstractTestQueriesNative
     }
 
     @Override
-    @Test(enabled = false)
+    @Test
     public void testArrayCumSum()
     {
         // int
